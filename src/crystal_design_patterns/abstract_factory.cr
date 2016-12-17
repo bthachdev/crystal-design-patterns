@@ -1,3 +1,5 @@
+# https://en.wikipedia.org/wiki/Abstract_factory_pattern
+
 abstract class Button
   abstract def paint
 end
