@@ -2,8 +2,10 @@
 This is examples of Design Patterns in Crystal
 
 ## Development
-Abstract Factory Pattern
-Builder Pattern
+Abstract Factory Pattern  
+Builder Pattern  
+Lazy Initialization Pattern  
+Adapter Pattern  
 
 ## Contributing
 
