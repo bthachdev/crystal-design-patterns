@@ -1,0 +1,13 @@
+name: crystal_design_patterns
+version: 0.1.0
+
+authors:
+  - bthach <bthachdev@gmail.com>
+
+targets:
+  crystal_design_patterns:
+    main: src/crystal_design_patterns.cr
+
+crystal: 0.20.1
+
+license: MIT
