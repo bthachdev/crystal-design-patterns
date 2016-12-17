@@ -6,6 +6,8 @@ Abstract Factory Pattern
 Builder Pattern  
 Lazy Initialization Pattern  
 Adapter Pattern  
+Bridge Pattern
+Composite Pattern
 
 ## Contributing
 
