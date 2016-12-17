@@ -8,6 +8,7 @@ Lazy Initialization Pattern
 Adapter Pattern  
 Bridge Pattern
 Composite Pattern
+Decorator Pattern
 
 ## Contributing
 
