@@ -1,4 +1,4 @@
-# Crystal Design Patterns Examples
+# Crystal Design Patterns
 This is examples of Design Patterns in Crystal
 
 ## Development
