@@ -6,10 +6,11 @@ Abstract Factory Pattern
 Builder Pattern  
 Lazy Initialization Pattern  
 Adapter Pattern  
-Bridge Pattern
-Composite Pattern
-Decorator Pattern
-Facade Pattern
+Bridge Pattern  
+Composite Pattern  
+Decorator Pattern  
+Facade Pattern  
+Flyweight Pattern  
 
 ## Contributing
 
