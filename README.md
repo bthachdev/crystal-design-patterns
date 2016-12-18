@@ -18,6 +18,7 @@ Structural patterns:
 
 Behavioral patterns
 - Chain Of Responsibility Pattern  
+- Command Pattern  
 
 
 ## Contributors
