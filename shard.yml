@@ -2,7 +2,7 @@ name: crystal_design_patterns
 version: 0.1.0
 
 authors:
-  - bthach <bthachdev@gmail.com>
+  - bthachdev <bthachdev@gmail.com>
 
 targets:
   crystal_design_patterns:
