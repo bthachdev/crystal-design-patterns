@@ -9,6 +9,7 @@ Adapter Pattern
 Bridge Pattern
 Composite Pattern
 Decorator Pattern
+Facade Pattern
 
 ## Contributing
 
