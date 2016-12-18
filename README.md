@@ -15,6 +15,8 @@ Structural patterns:
 - Facade Pattern  
 - Flyweight Pattern  
 - Proxy Pattern  
+
+Behavioral patterns
 - Chain Of Responsibility Pattern  
 
 
