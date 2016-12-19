@@ -22,6 +22,7 @@ Behavioral patterns
 - Interpreter Pattern  
 - Memento Pattern  
 - Observer Pattern  
+- State Pattern  
 
 
 ## Contributors
