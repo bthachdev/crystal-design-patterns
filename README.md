@@ -24,7 +24,7 @@ Behavioral patterns
 - Observer Pattern  
 - State Pattern  
 - Strategy Pattern  
-
+- Visitor Pattern  
 
 ## Contributors
 
