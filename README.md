@@ -19,7 +19,7 @@ Structural patterns:
 Behavioral patterns
 - Chain Of Responsibility Pattern  
 - Command Pattern  
-- Interpreter_pattern  
+- Interpreter Pattern  
 
 
 ## Contributors
