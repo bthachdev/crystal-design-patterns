@@ -23,6 +23,7 @@ Behavioral patterns
 - Memento Pattern  
 - Observer Pattern  
 - State Pattern  
+- Strategy Pattern  
 
 
 ## Contributors
