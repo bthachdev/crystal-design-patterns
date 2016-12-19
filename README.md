@@ -20,6 +20,8 @@ Behavioral patterns
 - Chain Of Responsibility Pattern  
 - Command Pattern  
 - Interpreter Pattern  
+- Memento Pattern  
+- Observer Pattern  
 
 
 ## Contributors
