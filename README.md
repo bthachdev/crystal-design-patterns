@@ -2,12 +2,12 @@ Crystal Design Patterns
 ===========
 This is examples of Design Patterns in Crystal language
 
-Creation Patterns:
+## Creation Patterns:
 - Abstract Factory Pattern  
 - Builder Pattern  
 - Lazy Initialization Pattern  
   
-Structural patterns:
+## Structural patterns:
 - Adapter Pattern  
 - Bridge Pattern  
 - Composite Pattern  
@@ -16,7 +16,7 @@ Structural patterns:
 - Flyweight Pattern  
 - Proxy Pattern  
 
-Behavioral patterns
+## Behavioral patterns
 - Chain Of Responsibility Pattern  
 - Command Pattern  
 - Interpreter Pattern  
